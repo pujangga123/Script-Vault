@@ -1,0 +1,3 @@
+[submodule "pujangga123pylib"]
+	path = pujangga123pylib
+	url = https://github.com/pujangga123/pujangga123pylib.git
